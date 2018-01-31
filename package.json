@@ -1,0 +1,27 @@
+{
+  "name": "@yesware/colors",
+  "version": "0.1.0",
+  "description": "Yesware Colors",
+  "scripts": {
+    "publish": "gh-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yesware/yw-colors.git"
+  },
+  "keywords": [
+    "colors",
+    "css",
+    "scss",
+    "variables"
+  ],
+  "author": "Yesware, Inc. <engineering@yesware.com>",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/Yesware/yw-colors/issues"
+  },
+  "homepage": "https://github.com/Yesware/yw-colors#readme",
+  "devDependencies": {
+    "gh-release": "^3.2.0"
+  }
+}
