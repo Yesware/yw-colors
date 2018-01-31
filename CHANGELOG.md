@@ -6,4 +6,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.1.0] 2018-01-31
 ### Added
-* Sass color variables
+* SASS and CSS3 color variables
+* Reference HTML
