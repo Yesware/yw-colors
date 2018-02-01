@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Yesware Colors",
   "scripts": {
-    "prepublishOnly": "gh-release"
+    "release": "gh-release"
   },
   "repository": {
     "type": "git",
